@@ -1,16 +1,135 @@
-# React + Vite
+# 🚀 Refokus Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and interactive **Refokus website clone** built using **React.js, Tailwind CSS, and Framer Motion**.  
+This project recreates the smooth animations, clean UI, and engaging hover interactions inspired by the Refokus website.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Refokus-inspired modern UI  
+✅ Smooth Framer Motion animations  
+✅ Interactive hover transitions  
+✅ Video preview on hover  
+✅ Reusable React components  
+✅ Tailwind CSS styling  
+✅ Clean layout and typography  
+✅ Responsive design  
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+| Technology | Usage |
+|---|---|
+| React.js | Frontend UI |
+| Tailwind CSS | Styling |
+| Framer Motion | Animations |
+| Vite | Development & Build Tool |
+| JavaScript (ES6+) | Logic |
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+src
+│
+├── Components
+│   ├── Navbar.jsx
+│   ├── Products.jsx
+│   ├── Product.jsx
+│   ├── Cards.jsx
+│   ├── Footer.jsx
+│   ├── Button.jsx
+│   └── ...
+│
+├── assets
+│   ├── arqitel-169.webm
+│   ├── ttr-169.webm
+│   ├── yahoo-169.webm
+│   └── yir2022-169.webm
+│
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yashtailor3009/Refokus.Clone.git
+```
+
+Navigate to project:
+
+```bash
+cd Refokus.Clone
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run locally:
+
+```bash
+npm run dev
+```
+
+## 📸 Project Preview
+
+### Homepage
+<img width="950" height="441" alt="image" src="https://github.com/user-attachments/assets/16467928-e440-4e14-a336-3d036739502f" />
+
+### Hover Animation
+<img width="948" height="443" alt="image" src="https://github.com/user-attachments/assets/c6b2a0fa-b2ae-4431-882a-d47bc1bea95a" />
+
+### Insights & marquee Effect
+<img width="950" height="444" alt="image" src="https://github.com/user-attachments/assets/78d598fa-9dd3-41c2-ba94-561137b56e06" />
+
+
+## 🎯 What I Learned
+
+This project helped me improve my understanding of:
+
+- React component architecture
+- Tailwind CSS layouts
+- Framer Motion animations
+- Hover interactions and UI effects
+- Project structuring
+- Modern frontend design recreation
+
+---
+
+## 🚀 Future Improvements
+
+- Add more advanced animations  
+- Improve mobile responsiveness  
+- Add dark/light theme  
+- Deploy live version  
+- Add performance optimizations  
+
+---
+
+## 👨‍💻 Author
+
+**Yash Tailor**
+
+🔹 GitHub:  
+https://github.com/yashtailor3009
+
+🔹 LinkedIn:  
+https://linkedin.com/in/yash-tailor-054373342/
+
+---
+
+## ⭐ Support
+
+If you liked this project, consider giving it a ⭐ on GitHub!
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
